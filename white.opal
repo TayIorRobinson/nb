@@ -1,1 +1,1 @@
-white = ["This is quite white"]
+quitewhite = ["This is quite white"]
