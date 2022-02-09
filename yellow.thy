@@ -1,1 +1,1 @@
-(* thy: Isabelle which is yellow *)
+(* thy: Isabelle which is yellow. *)
